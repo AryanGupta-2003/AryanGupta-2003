@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ashish Gupta</h1>
+<h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">A Computer Science Student Aspiring to become a Versatile Developer. 😄</h3>
 <img align ="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -11,15 +11,15 @@
 
 - 💬 Ask me about **MERN stack, Frontend Development**
 
-- 📫 How to reach me **ashish189000@gmail.com**
+- 📫 How to reach me **aryanguptalko9@gmail.com**
 
 - ⚡ Fun fact **I am always curious about certain things 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="https://linkedin.com/in/ashish-gupta-6a144a221" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="ashish-gupta-6a144a221" height="30" width="40" /></a>
-<a href="https://instagram.com/whoisashish._" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="whoisashish._" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryan-gupta-01694523b/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="ashish-gupta-6a144a221" height="30" width="40" /></a>
+<a href="https://instagram.com/aryan_g2003" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="aryan_g2003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
