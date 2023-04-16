@@ -29,17 +29,17 @@
   <td align="center">
   <p align="center">
   <a href="https://github.com/AshishGupta18">
-    <img align="center" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishgupta18&"/>
+    <img align="center" height="300px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=AryanGupta-2003&"/>
   </a>
   </td>
   <td align="center">
   <a href="https://github.com/AshishGupta18">
-  <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api?username=ashishgupta18&show_icons=true&locale=en" />
+  <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api?username=AryanGupta-2003&show_icons=true&locale=en" />
   </a>
   </td>
 </p>
 </details>
 </table>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishgupta18&show_icons=true&locale=en&layout=compact" alt="ashishgupta18" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AryanGupta-2003&show_icons=true&locale=en&layout=compact" alt="ashishgupta18" /></p>
 
 
