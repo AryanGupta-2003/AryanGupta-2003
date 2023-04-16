@@ -7,7 +7,6 @@
 
 - 🌱 I’m currently trying to learn **everything 😀**
 
-- 👨‍💻 All of my projects are available at [ashfolio.epizy.com](ashfolio.epizy.com)
 
 - 💬 Ask me about **MERN stack, Frontend Development**
 
